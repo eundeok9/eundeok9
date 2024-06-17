@@ -31,13 +31,13 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>SSAFY 1학기 자율프로젝트 '에그로그' (2024)</td>
+    <td>SSAFY 2학기 자율프로젝트 '에그로그' (2024)</td>
      <td>간호사의 근무 관리를 손쉽게! 간호 근무 일정 관리 서비스</td>
     <td>Kotlin, Jetpack Compose, Hilt, Orbit</td>
    <td>https://github.com/eundeok9/egg-log</td>
   </tr>
     <tr>
-    <td>SSAFY 1학기 특화프로젝트 '수확행' (2024)</td>
+    <td>SSAFY 2학기 특화프로젝트 '수확행' (2024)</td>
      <td>농작물 관리를 세상 쉽게, 농민들을 위한 작물 관리 서비스</td>
     <td>React Native, typescript, styled component, recoil, socket, StompJS, FCM</td>
    <td>https://github.com/eundeok9/suhwakhaeng</td>
