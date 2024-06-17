@@ -31,29 +31,16 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>멋쟁이사자처럼 10기 인하대 해커톤 Pop It! (2021)</td>
-     <td>관심 분야 공부를 다른 사람이 기록한 POP으로 학습하여, 새로운 분야 학습에 대한 진입 장벽을 낮출 수 있도록 돕는 서비스</td>
-    <td>React, javascript, styled component</td>
-   <td>https://github.com/eundeok9/inha-hackathon-popit-fe.git</td>
-  </tr>
-   <tr>
-    <td>멋쟁이사자처럼 10기 중앙 해커톤 Musterd (2021)</td>
-     <td>하루 계획 공유를 통한 플랜 메이트 및 혜택 제공 서비스</td>
-    <td>React, javascript, styled component</td>
-   <td>https://github.com/eundeok9/inha-hackathon-popit-fe.git</td>
-  </tr>
-   <tr>
-    <td>인하대학교 정보통신종합설계 'OCR 기술과 ChatGPT를 활용한 시각장애인 대상 인터넷 쇼핑 음성 챗봇 서비스' (2023)</td>
-     <td>이미지로 대체된 인터넷 상품 설명을 시각장애인을 대상으로 음성 챗봇으로 제공해주는 서비스</td>
-    <td>python, express.js, ChatGPT, STT, TTS, OCR</td>
-   <td></td>
+    <td>SSAFY 1학기 자율프로젝트 '에그로그' (2024)</td>
+     <td>간호사의 근무 관리를 손쉽게! 간호 근무 일정 관리 서비스</td>
+    <td>Kotlin, Jetpack Compose, Hilt, Orbit</td>
+   <td>https://github.com/eundeok9/egg-log</td>
   </tr>
     <tr>
-    <td>SSAFY 1학기 관통프로젝트 'I am Strong' (2023)</td>
-     <td>사회 초년생들을 위한 전세 사기 예방 데이터 제공 및 지역별 아파트 매매/전세가 조회 서비스</td>
-    <td>Vue.js, vue-router, pinia</td>
-   <td>https://github.com/eundeok9/i-am-strong-fe</td>
-  </tr>
+    <td>SSAFY 1학기 특화프로젝트 '수확행' (2024)</td>
+     <td>농작물 관리를 세상 쉽게, 농민들을 위한 작물 관리 서비스</td>
+    <td>React Native, typescript, styled component, recoil, socket, StompJS, FCM</td>
+   <td>https://github.com/eundeok9/suhwakhaeng</td>
   </tr>
     <tr>
     <td>SSAFY 2학기 공통프로젝트 '저의 이름은' (2024)</td>
@@ -62,16 +49,16 @@
    <td>https://github.com/eundeok9/mynameis</td>
   </tr>
     <tr>
-    <td>SSAFY 1학기 특화프로젝트 '수확행' (2024)</td>
-     <td>농작물 관리를 세상 쉽게, 농민들을 위한 작물 관리 서비스</td>
-    <td>React Native, typescript, styled component, recoil, socket, StompJS, FCM</td>
-   <td>https://github.com/eundeok9/suhwakhaeng</td>
+    <td>SSAFY 1학기 관통프로젝트 'I am Strong' (2023)</td>
+     <td>사회 초년생들을 위한 전세 사기 예방 데이터 제공 및 지역별 아파트 매매/전세가 조회 서비스</td>
+    <td>Vue.js, vue-router, pinia</td>
+   <td>https://github.com/eundeok9/i-am-strong-fe</td>
   </tr>
-  <tr>
-    <td>SSAFY 1학기 자율프로젝트 '에그로그' (2024)</td>
-     <td>간호사의 근무 관리를 손쉽게! 간호 근무 일정 관리 서비스</td>
-    <td>Kotlin, Jetpack Compose, Hilt, Orbit</td>
-   <td>https://github.com/eundeok9/egg-log</td>
+   <tr>
+    <td>인하대학교 정보통신종합설계 'OCR 기술과 ChatGPT를 활용한 시각장애인 대상 인터넷 쇼핑 음성 챗봇 서비스' (2023)</td>
+     <td>이미지로 대체된 인터넷 상품 설명을 시각장애인을 대상으로 음성 챗봇으로 제공해주는 서비스</td>
+    <td>python, express.js, ChatGPT, STT, TTS, OCR</td>
+   <td></td>
   </tr>
    
 </table>
