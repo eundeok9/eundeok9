@@ -20,7 +20,7 @@
 - 인하대학교 정보통신공학과 졸업 (2018.03 ~ 2023.08)
 - 인하대학교 멋쟁이사자처럼 10기 (2022.03 ~ 2022.12)
 - 인하대학교 멋쟁이사자처럼 11기 FE 운영진 (2023.03 ~  2023.08)
-- 삼성 청년 SW 아카데미 10기 수료 예정 (2023.08 ~ 2024.07)
+- 삼성 청년 SW 아카데미 10기 수료 (2023.07 ~ 2024.06)
 
 ### 👩‍💻 Projects
 <table align="center">
@@ -31,25 +31,25 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>SSAFY 2학기 자율프로젝트 '에그로그' (2024)</td>
+    <td>에그로그 (2024)</td>
      <td>간호사의 근무 관리를 손쉽게! 간호 근무 일정 관리 서비스</td>
     <td>Kotlin, Jetpack Compose, Hilt, Orbit</td>
    <td>https://github.com/eundeok9/egg-log</td>
   </tr>
     <tr>
-    <td>SSAFY 2학기 특화프로젝트 '수확행' (2024)</td>
+    <td>수확행 (2024)</td>
      <td>농작물 관리를 세상 쉽게, 농민들을 위한 작물 관리 서비스</td>
     <td>React Native, typescript, styled component, recoil, socket, StompJS, FCM</td>
    <td>https://github.com/eundeok9/suhwakhaeng</td>
   </tr>
     <tr>
-    <td>SSAFY 2학기 공통프로젝트 '저의 이름은' (2024)</td>
+    <td>저의 이름은 (2024)</td>
      <td>매 단계, 새로운 이야기. 나만의 매력을 풀어나가는 소개팅 서비스</td>
     <td>React, typescript, styled component, recoil, Openvidu</td>
    <td>https://github.com/eundeok9/mynameis</td>
   </tr>
     <tr>
-    <td>SSAFY 1학기 관통프로젝트 'I am Strong' (2023)</td>
+    <td>I am strong (2023)</td>
      <td>사회 초년생들을 위한 전세 사기 예방 데이터 제공 및 지역별 아파트 매매/전세가 조회 서비스</td>
     <td>Vue.js, vue-router, pinia</td>
    <td>https://github.com/eundeok9/i-am-strong-fe</td>
