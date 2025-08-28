@@ -21,6 +21,7 @@
 - 인하대학교 멋쟁이사자처럼 10기 (2022.03 ~ 2022.12)
 - 인하대학교 멋쟁이사자처럼 11기 FE 운영진 (2023.03 ~  2023.08)
 - 삼성 청년 SW 아카데미 10기 수료 (2023.07 ~ 2024.06)
+- LG Aimers 7기 수료 (2025.07 ~ 2025.08)
 
 ### 👩‍💻 Projects
 <table align="center">
@@ -33,13 +34,13 @@
   <tr>
     <td>에그로그 (2024)</td>
      <td>간호사의 근무 관리를 손쉽게! 간호 근무 일정 관리 서비스</td>
-    <td>Kotlin, Jetpack Compose, Hilt, Orbit</td>
+    <td>Kotlin, Jetpack Compose, MVI Pattern, Clean Architecture, Hilt</td>
    <td>https://github.com/eundeok9/egg-log</td>
   </tr>
     <tr>
     <td>수확행 (2024)</td>
      <td>농작물 관리를 세상 쉽게, 농민들을 위한 작물 관리 서비스</td>
-    <td>React Native, typescript, styled component, recoil, socket, StompJS, FCM</td>
+    <td>React Native, typescript, styled component, recoil, socket, StompJS, OAuth</td>
    <td>https://github.com/eundeok9/suhwakhaeng</td>
   </tr>
     <tr>
@@ -55,16 +56,11 @@
    <td>https://github.com/eundeok9/i-am-strong-fe</td>
   </tr>
    <tr>
-    <td>인하대학교 정보통신종합설계 'OCR 기술과 ChatGPT를 활용한 시각장애인 대상 인터넷 쇼핑 음성 챗봇 서비스' (2023)</td>
+    <td>OCR 기술과 ChatGPT를 활용한 시각장애인 대상 인터넷 쇼핑 음성 챗봇 서비스 (2023)</td>
      <td>이미지로 대체된 인터넷 상품 설명을 시각장애인을 대상으로 음성 챗봇으로 제공해주는 서비스</td>
     <td>python, express.js, ChatGPT, STT, TTS, OCR</td>
    <td></td>
   </tr>
    
 </table>
-
-### 👩‍💻 boj   
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=eundeoking99)](https://solved.ac/eundeoking99)
 
